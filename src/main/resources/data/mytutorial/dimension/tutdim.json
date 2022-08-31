@@ -1,0 +1,11 @@
+{
+  "type": "mytutorial:tutdim",
+  "generator": {
+    "type": "mytutorial:chunkgen",
+    "settings": {
+      "base": 65,
+      "verticalvariance": 16,
+      "horizontalvariance": 10
+    }
+  }
+}
